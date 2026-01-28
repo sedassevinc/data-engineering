@@ -1,0 +1,9 @@
+# SQL Practice
+
+This folder contains SQL examples focused on data analysis and data engineering use cases.
+
+## Topics
+- Joins
+- Aggregations
+- Window functions
+- Data quality checks
